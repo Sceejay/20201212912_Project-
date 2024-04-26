@@ -1,4 +1,4 @@
-# 1-Onyekwere Joel Chinaza
+# 1-Okenyi Eze Emmanuel
 - John Eno David
 - Nwanu Fortune Somtochuku
 - Nkemoirim Edward N.
@@ -8,3 +8,4 @@
 - Samuel Sweet Owet
 - Nwokafor Netochukwu
 - Okenyi Eze Emmanuel
+- Onyekwere Joel Chinaza
